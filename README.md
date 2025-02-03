@@ -34,8 +34,16 @@ This portfolio showcases real-world data projects, including:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Luisemoc30/Luis-Data-Analysis-Portfolio.git
+   ```
+2. Open **Jupyter Notebook / Power BI / SQL Query Editor** to explore projects.
+3. Modify and analyze data for practice.
 
-## 📌 How to Use This Repository
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Luisemoc30/Luis-Data-Analysis-Portfolio.git
+---
+
+## 🔗 **Connect with Me**
+📍 **Portfolio:** [GitHub Profile](https://github.com/Luisemoc30)  
+💼 **LinkedIn:** [linkedin.com/in/luisemoctezuma](https://www.linkedin.com/in/luisemoctezuma)  
+📧 **Email:** [luisemoc30@gmail.com](mailto:luisemoc30@gmail.com)  
+
+---
+⭐ If you found this useful, **please star this repository** to support my work! ⭐
